@@ -1,0 +1,2 @@
+Sat Jun  8 18:00:42 -05 2024: /Users/pedro.arrieta/Desktop/Antivirus/prueba/infected_file.txt - malicious_pattern_1
+Sat Jun  8 18:00:42 -05 2024: /Users/pedro.arrieta/Desktop/Antivirus/prueba/infected_file2.txt - malicious_pattern_2
